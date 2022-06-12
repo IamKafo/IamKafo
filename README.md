@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamKafo
+- 👋 Hi, I’m Kafo
 - 👀 I’m interested in becoming a FullStack-Developer
 - 🌱 I’m currently learning the basic for Fullstack-Developer
 - 💞️ I’m looking to collaborate on ...
