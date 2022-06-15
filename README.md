@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Kafo</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkafo&label=Profile%20views&color=0e75b6&style=flat" alt="iamkafo" /> </p>
 
@@ -25,10 +25,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/IamKafo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="IamKafo" /></a></p><br><br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkafo&show_icons=true&locale=en" alt="iamkafo" /></p>
+<br> <br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamkafo&show_icons=true&locale=en" alt="iamkafo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkafo&" alt="iamkafo" />
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkafo&" alt="iamkafo" />
 <p>
 </p>
 
