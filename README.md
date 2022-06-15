@@ -5,19 +5,19 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=iamkafo&label=Profile%20views&color=0e75b6&style=flat" alt="iamkafo"  /> </p>
 
-<div>
-    - 🌱💞️ I am Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Angular and C# 👾
-    -  While studying at MissionReadyHq, I develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
-    - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer.
-    - In my past projects I have manage to work with wonderful developers and UX designers on MERN STACK projects.
+- 🌱💞️ I am Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Angular and C# 👾
+-  While studying at MissionReadyHq, I develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
-    - 💬 Ask me about **why I wanted to become a Developer** 
+- 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer.
+- In my past projects I have manage to work with wonderful developers and UX designers on MERN STACK projects.
 
-    - ⚡ Fun fact **In 2021, I did not know how to use any sort of Computers/Laptop and I was typing with two fingers: typing speed: 12 wpm**
+- 💬 Ask me about **why I wanted to become a Developer** 
 
-    - 📫 You can reach me through this email **kafolautila@gmail.com** or any of the links below.
- </div>
+- ⚡ Fun fact **In 2021, I did not know how to use any sort of Computers/Laptop and I was typing with two fingers: typing speed: 12 wpm**
+
+- 📫 You can reach me through this email **kafolautila@gmail.com** or any of the links below.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
