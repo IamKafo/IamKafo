@@ -25,5 +25,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/IamKafo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="IamKafo" /></a></p><br><br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamkafo&show_icons=true&locale=en" alt="iamkafo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iamkafo&show_icons=true&locale=en" alt="iamkafo" /></p>
+<br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkafo&" alt="iamkafo" />
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkafo&show_icons=true&locale=en&layout=compact" alt="iamkafo" /></p>
+</p>
+
