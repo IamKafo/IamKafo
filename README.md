@@ -7,7 +7,7 @@
 
 
 - 🌱 I am currently learning the basic of being a Fullstack-Developer. 
--  While currently studying at MissionReadyHq in an Advanced Software Developer course, I became more passion about coding and learning new technologies that I have not expericence through my journey.
+-  While currently studying at MissionReadyHq in an Advanced Software Developer course, I became more passion about coding and learning new technologies that I have not expericence throughout my journey.
 
 - 💞️ I am looking to collaborate with anyone who is willing to learn and has expericence in the fundamental of being a Developer.
 
