@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkafo&label=Profile%20views&color=0e75b6&style=flat" alt="iamkafo" /> </p>
 
-- 🌱 I’m currently learning **@ MissionReadyHq in an Advance Software Developer**
 
-- 💬 Ask me about **React , HTML , CSS and JavaScript**
+- 🌱 I am currently learning the basic of being a Fullstack-Developer. While currently studying at MissionReadyHq in an Advanced Software Developer course, I became      more passion about coding and learning new technologies that I have not expericence through my journey.
+
+💞️ I am looking to collaborate with anyone who is willing to learn and has expericence in the fundamental of being a Developer.
+
+- 💬 Ask me about **React , HTML , CSS and JavaScript and why I wanted to become a Developer** 
 
 - 📫 How to reach me **kafolautila@gmail.com**
 
