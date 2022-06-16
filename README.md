@@ -11,6 +11,14 @@
       while studying at MissionReadyHq. I have develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
   - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects.
+     
+
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=AucklandPropertyManagement&theme=tokyonight" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=turners-car-insurance&theme=tokyonight" />
+    
+  
+
+
 
   - 💬 Ask me about **why I wanted to become a Developer** 
 
@@ -32,7 +40,7 @@
 <div align="center">
   <img width="350px" src="https://github-readme-stats.vercel.app/api?username=iamkafo&show_icons=true&locale=en" alt="iamkafo" />
   <img width="350px"  src="https://github-readme-streak-stats.herokuapp.com/?user=iamkafo&" alt="iamkafo" /></p></p>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkafo&show_icons=true&locale=en&layout=compact" alt="iamkafo" /> -->
+
 </div>
 <h3 align="left">Contribution Graph:</h3>
 <div align="center" >
@@ -43,8 +51,6 @@
 
 
 <p><a href="https://ko-fi.com/IamKafo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="IamKafo" /></a></p><br><br>
-
-
 
 
 
