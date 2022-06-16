@@ -36,3 +36,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkafo&" alt="iamkafo" /></p></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkafo&show_icons=true&locale=en&layout=compact" alt="iamkafo" />
 </div>
+<h3 align="left">Contribution Graph:</h3>
+
+![snake gif](https://github.com/IamKafo/IamKafo/blob/output/github-contribution-grid-snake.svg) 
+
+
