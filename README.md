@@ -12,9 +12,10 @@
 
   - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects.
      
-
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=AucklandPropertyManagement&theme=tokyonight" />
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=turners-car-insurance&theme=tokyonight" />
+    <a href="https://github.com/IamKafo/turners-car-insurance"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=turners-car-insurance&theme=tokyonight" /></a>
+    <a href="https://github.com/IamKafo/AucklandPropertyManagement">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=AucklandPropertyManagement&theme=tokyonight" /></a>
+    
     
   
 
