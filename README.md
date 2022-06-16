@@ -8,7 +8,7 @@
 
 
   - 🌱 I am Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Angular and C# 👾
-      While studying at MissionReadyHq, I develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
+      while studying at MissionReadyHq. I have develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
   - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects.
 
