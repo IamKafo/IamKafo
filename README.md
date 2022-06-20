@@ -21,7 +21,7 @@
 
 
 
-  - 💬 Ask me about **why I wanted to become a Developer** 
+  - 💬 Ask me about **why I wanted to become a Developer and how I came across coding?** 
 
   - ⚡ Fun fact **In 2021, I did not know how to use any sort of Computers/Laptop and I was typing <br> with two fingers: typing speed: 12 wpm**
 
