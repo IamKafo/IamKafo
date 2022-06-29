@@ -10,7 +10,7 @@
   - 🌱 I am a Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Angular and C# 👾
       while studying at MissionReadyHq. I have develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
-  - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects below.
+  - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects below😊.
      
     <a href="https://github.com/IamKafo/turners-car-insurance"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=turners-car-insurance&theme=tokyonight" /></a>
     <a href="https://github.com/IamKafo/AucklandPropertyManagement">
