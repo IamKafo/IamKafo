@@ -7,7 +7,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=iamkafo&label=Profile%20views&color=0e75b6&style=flat" alt="iamkafo"  /> Hello and Welcome</p>
 
 
-  - 🌱 I am a Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Angular and C# 👾
+  - 🌱 I am a Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Flutter and Dart 👾
       while studying at MissionReadyHq. I have develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
 
   - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects below😊.
