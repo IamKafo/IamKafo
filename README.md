@@ -7,9 +7,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=iamkafo&label=Profile%20views&color=0e75b6&style=flat" alt="iamkafo"  /> Hello and Welcome</p>
 
 
-  - 🌱 I am a Fullstack-Developer , who is currently studying at MissionReadyHq and in my spare time I am currently learning Flutter and Dart 👾
-      while studying at MissionReadyHq. I have develop a passion in learning new tools and technologies that I have not expericence throughout my journey.
-
+  - 🌱 I am a Fullstack-Developer.I graduated from MissionReadyHq in 2022 and I began my journey as a developer by interning at Datacom which I gain experience and expectations of a day to day life of a Software Developer. I became more and more confidence in my work with the help of     friends and mentors but I was extremely shy. As my journey continues I wanted to learn test automation where I started learning Java and Selenium as well some other software tools. I became extremely good for a beginner but I still lack the experince and still needed guidence in areas.
   - 💞️ I am looking to collaborate with anyone who is willing to learn and has a range of expericence in the fundamental of being a Developer. In my past projects I     have manage to work with wonderful developers and UX designers on MERN STACK projects below😊.
      
     <a href="https://github.com/IamKafo/turners-car-insurance"><img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKafo&repo=turners-car-insurance&theme=tokyonight" /></a>
